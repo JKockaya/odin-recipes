@@ -32,3 +32,8 @@ a {
 li:hover a {
     color: rgb(46,45,41);
 }
+
+.menu-item {
+    width: 400px;
+    margin: 16px auto;
+}
